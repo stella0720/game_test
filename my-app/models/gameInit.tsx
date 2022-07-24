@@ -44,5 +44,4 @@ interface Card {
     cardImageUrl:string
 
 }
-
 let cardsArr: Array<Card> = []

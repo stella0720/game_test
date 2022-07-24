@@ -41,7 +41,7 @@ export default function Home() {
           <Box sx={{ display: 'flex', flexDirection: 'column' ,m: 2 }}>
           <CardContent sx={{ flex: '1 0 auto' , height:500}}>
           <Typography component="div" variant="h4">
-            ミニゲーム
+            テスト
           </Typography>
            <Link href ="/game"><a  target="_blank">遊ぶ</a></Link>
            <br/>

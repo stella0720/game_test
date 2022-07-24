@@ -242,7 +242,7 @@ export default function Game() {
   }
 
   /**
-   * カードリセット
+   * リセット
    */
   function cardReset (sts) {
     setStatusState(sts)

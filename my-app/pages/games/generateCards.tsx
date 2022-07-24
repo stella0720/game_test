@@ -13,7 +13,6 @@ type Props = {
     cardImageUrl:string
     onClick: () => void
 }
-
 export default  function CardDeck(props)  {
     const isMobileScreen: boolean =  useMedia("(max-width: 800px)")
     let cardStyle = 'card card-ura'
